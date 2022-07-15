@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="edit_message">Search organisation</string>
+    <string name="button_search">Search</string>
+    <string name="size">TextView</string>
+</resources>
